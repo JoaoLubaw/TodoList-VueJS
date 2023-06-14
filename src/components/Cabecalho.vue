@@ -9,3 +9,6 @@
         <p>Você possuí {{ props.tarefasPendentes }} tarefas pendente</p>
     </header>
 </template>  
+
+<style>
+</style>
