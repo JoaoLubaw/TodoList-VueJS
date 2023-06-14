@@ -1,7 +1,7 @@
 <script setup>
 import { reactive } from 'vue'
 import Cabecalho from './components/Cabecalho.vue'
-import Form from './components/Form.vue'
+import Form from './components/form.vue'
 import Lista from './components/Lista.vue'
 
   const estado= reactive({
